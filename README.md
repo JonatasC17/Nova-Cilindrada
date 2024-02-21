@@ -44,6 +44,11 @@ Este projeto é uma aplicação web construída com React, que utiliza React Rou
   <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela6.png" align="center"/>
   <br/><br/><br/>
   <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela5.png" align="center"/>
+  <br/><br/><br/>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela7.png" align="center"/>
+
+  
+
 
 </details>
 
