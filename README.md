@@ -4,6 +4,8 @@
 
 Ecommerce de um revendedora de motos.
 
+**[Assista no YouTube](https://www.youtube.com/watch?v=P7cFqYtX4PU)**
+
 ## :man_mechanic: Linguagens e Ferramentas
 
 - JavaScript
