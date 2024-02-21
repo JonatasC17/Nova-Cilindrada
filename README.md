@@ -1,18 +1,29 @@
 # Nova Cilindrada
 
-<img src="" align="center"/>
+<img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/800por200banner.png" align="center"/>
 
 Ecommerce de um revendedora de motos.
 
 ## :man_mechanic: Linguagens e Ferramentas
 
+- JavaScript
+- TypeScript
 - React
 - React Router
 - Styled-components
 - Axios
-- TypeScript
 - Vite
 - Yarn
+
+## :paintbrush: Layout
+
+### :desktop_computer: Desktop
+
+<img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/layoutDesktop.png"/>
+
+### :iphone: Mobile
+
+<img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/layoutMobile.png" />
 
 ## Descrição
 
@@ -20,15 +31,18 @@ Este projeto é uma aplicação web construída com React, que utiliza React Rou
 
 ## Funcionalidades
 
-- [ ] Funcionalidade 1
-- [ ] Funcionalidade 2
-- [ ] ...
+- [ ] **Página de Login**: Os usuários podem acessar a aplicação através de uma página de login, onde inserem suas credenciais de acesso.
+- [ ] **Cadastro de Novo Usuário**: Os usuários que ainda não possuem uma conta podem se registrar na aplicação fornecendo informações básicas, como nome de usuário, e-mail e senha.
+- [ ] **Exibição de Cards com as Motos à Venda**: Na página inicial, os usuários podem visualizar uma lista de cartões (cards) que representam as motos disponíveis para venda. Cada card exibe uma imagem da moto, seu modelo, marca, preço e outras informações relevantes.
+- [ ] **Página de Detalhes do Produto Escolhido**: Ao clicar em um card de moto, os usuários são direcionados para uma página de detalhes do produto, onde podem ver informações mais detalhadas sobre a moto selecionada, como imagens adicionais, especificações técnicas, ano do modelo, tipo de combustível, etc.
+- [ ] **Página para Finalizar a Compra**: Após visualizar os detalhes do produto e decidir pela compra, os usuários podem acessar uma página dedicada para finalizar a compra. Nesta página, eles podem revisar o produto selecionado, escolher a forma de pagamento e concluir a transação.
 
 ## Instalação
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-projeto.git`
-2. Instale as dependências: `yarn install`
+2. Instale as dependências: `yarn`
 3. Execute a aplicação: `yarn dev`
+4. Execute o servidor da API para gerar as imagens: `yarn server`
 
 Certifique-se de ter o Node.js e Yarn instalados na sua máquina.
 
