@@ -29,6 +29,24 @@ Ecommerce de um revendedora de motos.
 
 Este projeto é uma aplicação web construída com React, que utiliza React Router para gerenciar a navegação entre diferentes páginas. Styled-components é utilizado para estilização dos componentes, garantindo uma abordagem modular e fácil de manter para o estilo da aplicação. Axios é utilizado para fazer requisições HTTP à API backend. O projeto também é escrito em TypeScript para adicionar tipagem estática opcional ao código, melhorando a robustez e a manutenibilidade. O Vite é usado como o bundler de desenvolvimento rápido para a construção do projeto. O Yarn é utilizado como gerenciador de pacotes para instalar e gerenciar as dependências do projeto.
 
+<details>
+  <summary>
+    <h2>Imagens</h2>
+  </summary>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela1.png" align="center"/>
+  <br/><br/><br/>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela2.png" align="center"/>
+  <br/><br/><br/>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela3.png" align="center"/>
+  <br/><br/><br/>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela4.png" align="center"/>
+  <br/><br/><br/>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela6.png" align="center"/>
+  <br/><br/><br/>
+  <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/tela5.png" align="center"/>
+
+</details>
+
 ## Funcionalidades
 
 - [ ] **Página de Login**: Os usuários podem acessar a aplicação através de uma página de login, onde inserem suas credenciais de acesso.
