@@ -1,4 +1,4 @@
-# Nova Cilindrada
+# *Nova Cilindrada*
 
 <img src="https://github.com/JonatasC17/Nova-Cilindrada/blob/main/Imagens%20do%20README/800por200banner.png" align="center"/>
 
